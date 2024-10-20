@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Professores</string>
+    <string name="nome">Nome</string>
+    <string name="matricula">Matricula</string>
+    <string name="idade">Idade</string>
+    <string name="anosIntituicao">Anos de Instituição</string>
+    <string name="salario">Salário</string>
+    <string name="horasAula">Horas-aula</string>
+    <string name="valorHora">Valor de Hora-aula</string>
+    <string name="rbHorista">Horista</string>
+    <string name="rbTitular">Titular</string>
+    <string name="btnProx">Avançar</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
